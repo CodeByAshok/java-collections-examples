@@ -6,7 +6,7 @@ public class AccessElementsFromArrayListExample {
         List<String> topCompanies = new ArrayList<>();
 
         // Check if an ArrayList is empty
-        System.out.println("Is the topCompanies list empty? : " + topCompanies.isEmpty());
+        System.out.println("Ashok doing git practice ? : " + topCompanies.isEmpty());
 
         topCompanies.add("Google");
         topCompanies.add("Apple");
